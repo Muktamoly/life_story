@@ -1,10 +1,11 @@
 #include<stdio.h>
-void name()
+void full_name()
 {
-    printf("moly");
+    int a=10;
+    printf("Mukta akanda moly");
 }
 void main()
 {
     printf("This is main Function! \n");
-    name();
+    full_name();
 }
